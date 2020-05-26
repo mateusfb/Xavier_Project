@@ -4,6 +4,11 @@ import matplotlib.pyplot as plt
 
 dataframe = pd.read_csv("Particao_k3_c1_reduced.csv")
 
+for index in dataframe.index:
+   print(dataframe['qualis'][index])
+
+
+"""
 pegue uma linha
 para x em programas {
 	verifique se x é uma chave no dicionario(true){
@@ -16,3 +21,4 @@ para x em programas {
 		adiciona o programa com um dicionario vazio
 	}
 }
+"""
