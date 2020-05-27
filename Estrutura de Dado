@@ -13,3 +13,6 @@ para x em programas {
 		adiciona o programa com um dicionario vazio
 	}
 }
+
+# AAAAA : {A1 : 3, A2 : 6}
+# BBBBB : {A1 : 2, A2 : 5}
