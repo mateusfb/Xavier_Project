@@ -1,0 +1,8 @@
+.replit
+TODO
+*.csv
+*.png
+*.json
+Dados Falsos
+poetry.lock
+pyproject.toml
